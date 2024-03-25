@@ -2,7 +2,7 @@
 - 👀 I’m interested in WEB Developer and Network Engineer
 - 🌱 I’m currently learning Ionic Framework and Laravel 
 - 💞️ I’m looking to collaborate on Any Open source Project Web Development
-- 📫 How to reach me [Linkedin Profile](https://google.com)
+- 📫 How to reach me [Linkedin Profile](https://www.linkedin.com/in/pariz-maulana-septiana/)
 
 <!--
 <h2 align="center">
