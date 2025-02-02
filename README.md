@@ -21,7 +21,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hi Teman-teman saya, 
-                <b><a target="_blank" href="google.com">Pariz Maulana Septiana</a></b>
+                <b><a target="_blank" href="google.com">Pariz</a></b>
         </samp>
 </h3>
 
